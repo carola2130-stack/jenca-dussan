@@ -1,0 +1,15 @@
+CARRITO DE COMPRAS — JENCA DUSSAN
+
+Funcionalidades:
+- Botón de carrito en la página.
+- Contador de obras seleccionadas.
+- Añadir obras al carrito.
+- Aumentar/disminuir cantidad.
+- Eliminar obras.
+- Persistencia del carrito mediante localStorage del navegador.
+- Solicitud de cotización por correo.
+- Envío de la selección por WhatsApp al +57 317 382 0137.
+- Los precios permanecen como "Consultar precio", según la configuración actual de la web.
+
+Nota:
+Para convertirlo en una tienda con pagos reales (tarjeta, PSE, etc.) se necesitaría integrar una pasarela de pagos y definir inventario, precios y políticas de venta.
